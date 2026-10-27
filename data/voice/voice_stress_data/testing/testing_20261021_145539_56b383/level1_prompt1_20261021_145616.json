@@ -1,0 +1,10 @@
+{
+  "participant_id": "testing",
+  "session_id": "testing_20261021_145539_56b383",
+  "level": 1,
+  "prompt_index": 0,
+  "timestamp": "20261021_145616",
+  "prompt_text": "Please read this text naturally: The quick brown fox jumps over the lazy dog.",
+  "duration": 4.173061224489796,
+  "sample_rate": 44100
+}
